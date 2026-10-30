@@ -1,34 +1,40 @@
-# ✈️ Boot Voyages — Donner vie à une idée avec du code
+# Boot Voyages
 
-Boot Voyages est un mini-site vitrine imaginé autour d'une agence de voyages fictive. L'idée était de construire une petite expérience web cohérente, et pas seulement une page isolée : accueillir le visiteur, lui présenter des destinations, lui faire découvrir des formules et lui permettre de préparer une demande de devis.
+Boot Voyages est un mini-site vitrine imaginé autour d'une agence de voyages fictive. L'objectif était de créer un petit site complet, avec plusieurs pages qui se répondent : une page d'accueil pour présenter des destinations, une page de tarifs et un formulaire pour préparer une demande de devis.
 
-C'est le genre de projet qui rend l'apprentissage concret. On part d'une idée, on réfléchit à la structure, on écrit le HTML, on travaille les styles CSS, on assemble les composants Bootstrap et on vérifie que les différentes pages fonctionnent ensemble. Voir le résultat prendre forme dans le navigateur est particulièrement motivant ! 🌍
+J'ai pris plaisir à construire ce projet étape par étape. Il fallait organiser les pages, écrire le HTML, travailler la présentation en CSS, intégrer les composants Bootstrap et vérifier que la navigation fonctionnait correctement. C'est motivant de voir une idée devenir progressivement un site que l'on peut parcourir.
 
-## 🧭 Ce que contient le site
+## Les pages du projet
 
-- **Accueil — `index.html` :** une page d'accueil avec une identité visuelle, une navigation, un grand visuel d'introduction et plusieurs destinations.
-- **Tarifs — `tarifs.html` :** trois formules présentées sous forme de cartes, avec une hiérarchie visuelle pour faciliter la comparaison.
-- **Demande de devis — `devis.html` :** un formulaire avec des champs nommés, des labels, des champs obligatoires et une validation native du navigateur.
+**Accueil — `index.html`**
 
-## 🛠️ Technologies et code
+Une page d'introduction avec une identité visuelle, une navigation, un grand visuel et une sélection de destinations. J'ai travaillé la hiérarchie des titres et la présentation des images pour donner envie de découvrir le contenu.
 
-- **HTML5 :** structure des pages, liens entre les documents, titres, sections, cartes et formulaire.
-- **Bootstrap 5 :** grille responsive, navigation mobile, boutons et composants de mise en page.
-- **CSS personnalisé :** palette de couleurs, typographie, espacements, images, cartes et adaptations selon la largeur de l'écran.
-- **JavaScript :** gestion de la navigation Bootstrap et retour visuel après la validation du formulaire.
+**Tarifs — `tarifs.html`**
 
-## 💡 Ce que j'ai appris en travaillant sur ce projet
+Une présentation de trois formules sous forme de cartes. L'objectif était de rendre les informations faciles à comparer et de garder une présentation cohérente avec la page d'accueil.
 
-Ce projet m'a permis de mieux comprendre comment plusieurs pages peuvent former un même site, comment organiser les classes CSS et comment utiliser une grille responsive pour éviter que le contenu déborde sur mobile.
+**Demande de devis — `devis.html`**
 
-J'ai aussi travaillé sur des détails qui changent beaucoup l'expérience : le contraste des textes, les textes alternatifs des images, les libellés du formulaire, les états de navigation et la cohérence entre les pages.
+Un formulaire avec des champs nommés, des libellés, des champs obligatoires et une validation native du navigateur. Une interaction JavaScript affiche un message de confirmation visuel après la validation.
 
-Le plus satisfaisant est de passer d'une idée toute simple à un site avec plusieurs pages reliées entre elles. Quand les liens fonctionnent, que le formulaire réagit correctement et que la mise en page s'adapte à l'écran, on voit vraiment le résultat de son travail. C'est une belle motivation pour continuer à coder et progresser ! 💛
+## Technologies utilisées
 
-## ▶️ Lancer le projet
+- **HTML5** pour construire la structure des pages, les liens, les sections et le formulaire.
+- **Bootstrap 5** pour la grille responsive, la navigation mobile et plusieurs composants de mise en page.
+- **CSS personnalisé** pour définir les couleurs, la typographie, les espacements, les images et l'apparence des cartes.
+- **JavaScript** pour la navigation Bootstrap et le retour visuel du formulaire.
 
-Ouvrir `index.html` dans un navigateur. Les ressources Bootstrap et les photographies sont chargées depuis des services externes ; une connexion Internet est donc nécessaire.
+## Ce que ce projet m'a appris
 
-## À savoir
+Ce travail m'a aidée à mieux comprendre comment organiser un site composé de plusieurs pages et comment garder une présentation cohérente d'une page à l'autre. J'ai aussi pu pratiquer la grille Bootstrap, les classes CSS et les adaptations nécessaires pour les écrans plus petits.
 
-Boot Voyages est un projet pédagogique fictif. Les prix et les offres sont des exemples. Le formulaire est une démonstration front-end : aucune demande n'est envoyée ni enregistrée sur un serveur.
+J'ai appris à faire attention à des détails qui comptent dans une interface : les contrastes, les textes alternatifs des images, les libellés des champs et les états de navigation. J'ai également découvert comment ajouter une petite interaction côté navigateur sans avoir besoin d'un serveur.
+
+Le moment le plus satisfaisant reste celui où toutes les pages fonctionnent ensemble, où les liens conduisent au bon endroit et où la mise en page reste agréable sur mobile. C'est une étape encourageante dans mon apprentissage et une bonne motivation pour continuer à coder.
+
+## Lancer le projet
+
+Ouvrez le fichier `index.html` dans un navigateur. Les ressources Bootstrap et les photographies sont chargées depuis des services externes ; une connexion Internet est donc nécessaire.
+
+Boot Voyages est un projet pédagogique fictif. Les prix et les offres sont des exemples sans valeur commerciale. Le formulaire est une démonstration front-end : aucune demande n'est envoyée ni enregistrée sur un serveur.
