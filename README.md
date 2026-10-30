@@ -1,58 +1,47 @@
-# 💻 Mes projets de développement web
+# Mes projets de développement web
 
-Bienvenue dans mon espace de création ! 👋
+Bienvenue dans mon espace de projets.
 
-Je suis Anne Gabrielly et je suis actuellement en formation en développement web. Ce dépôt représente une partie de mon parcours : les exercices, les découvertes et surtout le plaisir de voir une idée prendre forme dans le navigateur grâce au code.
+Je m'appelle Anne Gabrielly et je suis actuellement en formation en développement web. Ce dépôt rassemble une sélection de travaux réalisés pendant mon apprentissage. Ce sont des projets qui me permettent de mettre en pratique ce que j'étudie, de découvrir de nouvelles possibilités et de gagner progressivement en autonomie.
 
-Au début, une page web peut sembler être simplement un assemblage de textes, d'images et de boutons. Mais quand on commence à écrire le HTML, à construire les styles en CSS, à organiser les composants et à corriger les petits bugs, on découvre tout le travail qui se cache derrière une interface. C'est précisément ce que j'aime dans cette formation : apprendre en faisant, tester, me tromper, chercher une solution et ressentir cette satisfaction quand tout fonctionne enfin. ✨
+Ce que j'aime dans le développement web, c'est partir d'une idée et réussir à lui donner forme avec du code. Écrire le HTML, construire la mise en page en CSS, tester le résultat dans le navigateur, chercher pourquoi un élément ne se positionne pas comme prévu, puis trouver une solution : c'est dans cette démarche que j'apprends le plus. Et il y a toujours une vraie satisfaction lorsque le résultat correspond enfin à ce que j'avais imaginé.
 
-Ici, je rassemble des projets pédagogiques que je développe et améliore au fil de mon apprentissage. Je souhaite montrer concrètement ce que je pratique, les technologies que je découvre et ma progression vers le métier de développeuse web.
+## Projets
 
----
+### [Boot Voyages](./01-boot-voyages/)
 
-## 🌍 Mes projets
-
-### ✈️ [Boot Voyages](./01-boot-voyages/)
 **HTML5 · Bootstrap 5 · CSS · JavaScript**
 
-Un mini-site vitrine imaginé autour d'une agence de voyages fictive. J'ai travaillé sur une petite expérience complète : une page d'accueil pour donner envie de voyager, une page de tarifs pour présenter différentes formules et un formulaire pour imaginer une demande de devis.
+Un mini-site vitrine imaginé autour d'une agence de voyages fictive. Il comprend une page d'accueil, une présentation de différentes formules tarifaires et un formulaire de demande de devis.
 
-Ce projet permet de pratiquer la structure de plusieurs pages, la navigation, les composants Bootstrap, les grilles responsives et les formulaires HTML. J'ai particulièrement aimé donner une identité visuelle au site et relier les différentes pages pour obtenir un ensemble cohérent.
+Ce travail m'a permis de construire plusieurs pages reliées entre elles, de pratiquer la navigation, d'utiliser les composants Bootstrap et de travailler la présentation sur différentes tailles d'écran.
 
-### 🎧 [Street Life](./02-street-life/)
+### [Street Life](./02-street-life/)
+
 **HTML5 · CSS3 · Flexbox · CSS Grid**
 
-Une maquette éditoriale inspirée d'un magazine consacré à la culture urbaine. L'objectif était de créer une page avec une vraie hiérarchie visuelle : un article principal, des contenus secondaires, une barre de navigation et une colonne latérale.
+Une maquette éditoriale inspirée d'un magazine consacré à la culture urbaine. Le défi était de créer une page structurée autour d'un article principal, de contenus secondaires, d'une navigation et d'une colonne latérale.
 
-Ce travail me permet de pratiquer le positionnement des éléments, les grilles CSS, Flexbox, les espacements, la typographie et l'adaptation aux écrans plus petits. J'aime particulièrement voir comment quelques règles CSS bien pensées peuvent transformer une structure HTML en une interface agréable à parcourir.
+J'ai travaillé sur l'organisation des éléments avec Grid et Flexbox, la hiérarchie visuelle, les espacements et l'adaptation de la page aux écrans plus petits.
 
----
+## Ce que je développe
 
-## 🧠 Ce que je travaille en réalisant ces projets
+Au fil de ces exercices, je pratique la structuration des pages avec HTML sémantique, la mise en forme avec CSS, le responsive design, l'utilisation de Bootstrap et les premières interactions avec JavaScript. Je porte également attention à la lisibilité du code, aux textes alternatifs des images et aux formulaires accessibles.
 
-- **HTML5 :** structurer les pages, organiser les sections et utiliser des éléments sémantiques.
-- **CSS3 :** travailler les couleurs, les espacements, la typographie, les mises en page et les états visuels.
-- **Responsive design :** adapter une interface aux ordinateurs, tablettes et téléphones.
-- **Bootstrap :** utiliser une grille et des composants pour construire plus rapidement des interfaces cohérentes.
-- **JavaScript :** ajouter de petites interactions côté navigateur.
-- **Formulaires :** utiliser les champs, les labels et la validation native.
-- **Accessibilité :** penser aux textes alternatifs, aux libellés et à une navigation compréhensible.
+## Mon apprentissage
 
-## 🚀 Ma façon d'apprendre
+Je cherche à comprendre le code que j'écris, et pas seulement à obtenir un résultat visuel. Chaque exercice m'apprend quelque chose : parfois une nouvelle propriété CSS, parfois une meilleure façon d'organiser une page, parfois simplement à être plus patiente face à un problème.
 
-Je ne veux pas seulement recopier du code sans le comprendre. Mon objectif est de savoir pourquoi une solution fonctionne, de pouvoir la modifier et, petit à petit, de construire mes propres interfaces avec davantage d'autonomie.
+Je suis fière de pouvoir regarder mes premiers travaux et de constater le chemin parcouru. Ce dépôt continuera d'évoluer avec ma formation, au fur et à mesure que je réaliserai de nouveaux projets et que j'améliorerai ceux qui existent déjà.
 
-Chaque exercice est une occasion d'apprendre quelque chose de nouveau. Il y a des moments où une mise en page résiste, où un élément ne se place pas comme prévu ou où il faut reprendre son CSS plusieurs fois. Mais c'est aussi ce qui rend la progression motivante : quand je trouve enfin la solution et que je vois le résultat à l'écran, je suis vraiment fière du chemin parcouru. 💛
+## Consulter les projets
 
-Ce dépôt évoluera avec ma formation : de nouveaux exercices, des améliorations et des projets plus ambitieux viendront compléter cette sélection.
+Chaque projet est un site statique. Pour le lancer localement, ouvrez son fichier `index.html` dans un navigateur. Vous pouvez également utiliser l'extension **Live Server** dans Visual Studio Code pour visualiser les modifications pendant le développement.
 
-## ▶️ Voir les projets
-
-Les projets sont des sites statiques. Pour les consulter localement, ouvrez le fichier `index.html` de chaque dossier dans votre navigateur. Vous pouvez aussi utiliser **Live Server** dans Visual Studio Code pour voir les changements pendant le développement.
-
-> Les projets présentés sont pédagogiques et fictifs. Les formulaires sont des démonstrations front-end : ils ne transmettent aucune donnée à un serveur. Les offres et tarifs de Boot Voyages sont des exemples sans valeur commerciale.
+Les projets présentés sont pédagogiques et fictifs. Le formulaire de Boot Voyages est une démonstration front-end : aucune donnée n'est envoyée à un serveur.
 
 ---
 
-**Anne Gabrielly**  
-[🌐 Mon portfolio](https://annegaaby.github.io/Anne-Gabrielly/) · [GitHub](https://github.com/AnneGaaby) · [LinkedIn](https://www.linkedin.com/in/anne-gabrielly-5837a1314/)
+**Anne Gabrielly**
+
+[Mon portfolio](https://annegaaby.github.io/Anne-Gabrielly/) · [GitHub](https://github.com/AnneGaaby) · [LinkedIn](https://www.linkedin.com/in/anne-gabrielly-5837a1314/)
