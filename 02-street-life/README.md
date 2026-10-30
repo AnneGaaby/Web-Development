@@ -1,36 +1,36 @@
-# 🎧 Street Life — Une page éditoriale construite en HTML et CSS
+# Street Life
 
-Street Life est une maquette de page éditoriale inspirée d'un magazine consacré à la culture urbaine, à la musique et à la création. Je voulais travailler sur une interface qui ressemble davantage à une vraie page de magazine : un article principal qui attire le regard, des sujets secondaires, une navigation claire et une colonne de découvertes.
+Street Life est une maquette de page éditoriale inspirée d'un magazine consacré à la culture urbaine, à la musique et à la création. Je voulais travailler sur une interface qui présente les contenus de façon claire, avec un article principal, des sujets secondaires, une navigation et une colonne latérale.
 
-Ce projet est une belle occasion de pratiquer le CSS au-delà des couleurs et des polices. Il faut réfléchir à la composition, aux proportions, aux espaces, à l'alignement et à la façon dont le contenu se réorganise quand l'écran devient plus petit.
+Ce projet m'a permis de pratiquer le HTML et le CSS en portant une attention particulière à la composition de la page. Il ne s'agissait pas seulement de placer des images et des titres, mais de réfléchir à leur taille, à leur alignement, aux espaces entre les éléments et à la manière dont le regard parcourt le contenu.
 
-## 🧩 Construire la page
+## Organisation de la page
 
-- **En-tête :** création d'une identité typographique pour le nom du projet.
-- **Navigation :** liens vers les différentes sections de la page.
+- **En-tête :** identité typographique du projet.
+- **Navigation :** liens vers les différentes sections.
 - **Article principal :** image, catégorie, titre, introduction et lien de lecture.
-- **Articles secondaires :** organisation des contenus en colonnes.
+- **Articles secondaires :** présentation des autres contenus en colonnes.
 - **Barre latérale :** suggestions de lecture et présentation du projet.
-- **Pied de page :** rappel de l'identité du site et de son caractère pédagogique.
+- **Pied de page :** rappel du nom du site et de son caractère pédagogique.
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
-- **HTML5 :** structure sémantique avec `header`, `nav`, `main`, `section`, `article`, `aside` et `footer`.
-- **CSS3 :** couleurs, typographie, dimensions, espacements et effets de mise en page.
-- **CSS Grid :** organisation des grandes colonnes et des blocs d'articles.
-- **Flexbox :** alignement des éléments de navigation et des zones de contenu.
-- **Media queries :** adaptation de la mise en page aux tablettes et téléphones.
+- **HTML5** avec des éléments sémantiques comme `header`, `nav`, `main`, `section`, `article`, `aside` et `footer`.
+- **CSS3** pour les couleurs, la typographie, les dimensions et les espacements.
+- **CSS Grid** pour organiser les grandes colonnes et les blocs d'articles.
+- **Flexbox** pour aligner les éléments de navigation et certaines zones de contenu.
+- **Media queries** pour adapter la mise en page aux tablettes et aux téléphones.
 
-## 🔍 Ce que cet exercice m'a appris
+## Ce que j'ai appris
 
-J'ai pu mieux comprendre la différence entre organiser une page avec Grid et aligner des éléments avec Flexbox. J'ai aussi travaillé sur la hiérarchie des titres, la taille des images, les marges et les espacements pour rendre la lecture plus naturelle.
+Cet exercice m'a aidée à mieux comprendre quand utiliser Grid et quand utiliser Flexbox. J'ai aussi travaillé sur la hiérarchie des titres, les dimensions des images et les espacements nécessaires pour rendre une page plus agréable à lire.
 
-Le responsive design demande de réfléchir autrement : une disposition qui fonctionne très bien sur un grand écran peut devenir trop serrée sur un téléphone. Il faut donc tester, ajuster les colonnes et parfois changer complètement l'organisation des blocs.
+L'adaptation aux petits écrans a été un point important. Une mise en page qui fonctionne sur un ordinateur peut devenir trop serrée sur un téléphone. Il faut donc tester le résultat, ajuster les colonnes et parfois modifier l'organisation des blocs.
 
-C'est justement ce côté pratique que j'apprécie dans le développement web. On écrit quelques lignes de HTML, on ajoute du CSS, on actualise le navigateur, on observe, on corrige… et petit à petit, la page devient ce qu'on avait imaginé. Chaque amélioration apporte une petite satisfaction et donne envie d'aller plus loin. ✨
+J'aime cette partie du développement web : écrire quelques lignes, actualiser le navigateur, observer le résultat et améliorer ce qui ne fonctionne pas encore. On voit directement l'effet du code et on comprend progressivement comment construire une interface plus propre et plus cohérente.
 
-## ▶️ Lancer le projet
+## Lancer le projet
 
-Ouvrir `index.html` dans un navigateur. Les images sont chargées depuis Unsplash et nécessitent une connexion Internet.
+Ouvrez le fichier `index.html` dans un navigateur. Les images sont chargées depuis Unsplash et nécessitent une connexion Internet.
 
-> Street Life est une maquette pédagogique fictive, sans affiliation à une publication réelle.
+Street Life est une maquette pédagogique fictive, sans affiliation à une publication réelle.
